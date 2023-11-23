@@ -1,6 +1,11 @@
 # ds3
 
-A new Flutter project.
+A new Flutter project just for fun, the simplest flutter app you can make.
+
+this one shows my last boss in Dark soul 3
+
+![Screenshot_20231029-212242](https://github.com/Imran-227/ds3/assets/128098964/d2df5950-0c3b-4891-a0a2-d17fb366aa07)
+
 
 ## Getting Started
 
